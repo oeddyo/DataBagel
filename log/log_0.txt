@@ -1,0 +1,10 @@
+ [2012-11-27 23:27:23,649]   [DEBUG] (Thread-16 ) Exception msg: (1146, "Table 'crawl.venue_photo_instagram0' doesn't exist") 
+ [2012-11-27 23:27:23,651]   [DEBUG] (Thread-26 ) GET url: https://api.foursquare.com/v2/venues/4a021207f964a52029711fe3?client_secret=W30U1BPIOUY1RD0MF0EPXO2DG40URUR1E0PVP4UNUVGOFISX&client_id=DLUNE4USSPBVIT4EHHRVELL23DPM5JREGXIXMPIF5VR5AWIB&v=20120608 
+ [2012-11-27 23:27:23,861]   [DEBUG] (Thread-26 ) Exception msg: global name 'add_table_venue_meta' is not defined 
+ [2012-11-27 23:27:56,888]   [INFO] (CP Server Thread-6) 127.0.0.1 - - [27/Nov/2012:23:27:56] "GET /get_jobs_status HTTP/1.1" 200 53 "http://ec2-23-22-67-45.compute-1.amazonaws.com/places-crawl/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.14 (KHTML, like Gecko) Version/6.0.1 Safari/536.26.14" 
+ [2012-11-27 23:27:57,369]   [DEBUG] (Thread-16 ) Exception msg: (1146, "Table 'crawl.venue_photo_instagram0' doesn't exist") 
+ [2012-11-27 23:27:57,372]   [DEBUG] (Thread-26 ) GET url: https://api.foursquare.com/v2/venues/4a021207f964a52029711fe3?client_secret=W30U1BPIOUY1RD0MF0EPXO2DG40URUR1E0PVP4UNUVGOFISX&client_id=DLUNE4USSPBVIT4EHHRVELL23DPM5JREGXIXMPIF5VR5AWIB&v=20120608 
+ [2012-11-27 23:27:57,616]   [DEBUG] (Thread-26 ) Exception msg: global name 'add_table_venue_meta' is not defined 
+ [2012-11-27 23:28:43,082]   [DEBUG] (Thread-16 ) Exception msg: (1146, "Table 'crawl.venue_photo_instagram0' doesn't exist") 
+ [2012-11-27 23:28:43,085]   [DEBUG] (Thread-26 ) GET url: https://api.foursquare.com/v2/venues/4a021207f964a52029711fe3?client_secret=W30U1BPIOUY1RD0MF0EPXO2DG40URUR1E0PVP4UNUVGOFISX&client_id=DLUNE4USSPBVIT4EHHRVELL23DPM5JREGXIXMPIF5VR5AWIB&v=20120608 
+ [2012-11-27 23:28:43,313]   [DEBUG] (Thread-26 ) Exception msg: global name 'add_table_venue_meta' is not defined 

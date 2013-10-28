@@ -1,4 +1,4 @@
-DataBagel
-=========
+Quantitative-Architecture
+=========================
 
-Data crawler for certain purposes used by the lab 
+A research project using social media data to quantify how people are using architectures (Plazas)
